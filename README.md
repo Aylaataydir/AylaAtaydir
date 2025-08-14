@@ -48,7 +48,7 @@ Currently focused on **building responsive and interactive websites** and learni
   <td width="50%" align="center" valign="top">
       <h3>My Responsive Order Summary</h3>
       <a href="https://aylaataydir.github.io/Responsive_Order_Summary_Component/" target="_blank">
-        <img src="./images/Order_Summary"  width="70%" />
+        <img src="./images/Order_Summary.png"  width="55%" />
       </a>
       <br/><br/>
       <p>
