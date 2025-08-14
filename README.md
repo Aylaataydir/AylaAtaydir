@@ -46,9 +46,9 @@ Currently focused on **building responsive and interactive websites** and learni
       <p><strong>HTML, CSS</strong></p>
     </td>
   <td width="50%" align="center" valign="top">
-      <h3>My Third Project</h3>
-      <a href="https://aylaataydir.github.io/My_Third_Project/" target="_blank">
-        <img src="My_Third_Project.png" alt="My Third Project" width="70%" />
+      <h3>My Responsive Order Summary</h3>
+      <a href="https://aylaataydir.github.io/Responsive_Order_Summary_Component/" target="_blank">
+        <img src="./images/Order_Summary"  width="70%" />
       </a>
       <br/><br/>
       <p>
