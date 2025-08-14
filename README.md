@@ -32,7 +32,7 @@ Currently focused on **building responsive and interactive websites** and learni
     <td width="50%" align="center" valign="top">
       <h3>My First Project</h3>
       <a href="https://aylaataydir.github.io/My_First_Project/" target="_blank">
-        <img src="My_First_Project.png" alt="My First Project" width="70%" />
+        <img src="./images/My_First_Project.png" alt="My First Project" width="70%" />
       </a>
       <br/><br/>
       <p>
