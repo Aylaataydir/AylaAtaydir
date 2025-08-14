@@ -22,53 +22,121 @@ Currently focused on **building responsive and interactive websites** and learni
 
 ---
 
-## 🚀 Featured Project  
+## 🚀 Featured Projects  
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3 align="center">My First Project</h3>
-        <div align="center">
-          <a href="https://aylaataydir.github.io/My_First_Project/" target="_blank">
-            <img src="My_First_Project.png" alt="My First Project" width="80%"  target="_blank" />
-          </a>
-          <br/><br/>
-          <p>
-            <a href="https://github.com/Aylaataydir/My_First_Project" target="_blank">
-              <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
-            </a>
-            <a href="https://aylaataydir.github.io/My_First_Project/" target="_blank">
-              <img src="https://img.shields.io/badge/Live-0892d0?style=for-the-badge&logo=vercel&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>HTML, CSS</strong></p>
-        </div>
-      </td>
+## 🚀 Featured Projects  
+
+<table>
+  <!-- 1. Satır -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>My First Project</h3>
+      <a href="https://aylaataydir.github.io/My_First_Project/" target="_blank">
+        <img src="My_First_Project.png" alt="My First Project" width="70%" />
+      </a>
+      <br/><br/>
+      <p>
+        <a href="https://github.com/Aylaataydir/My_First_Project" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
+        </a>
+        <a href="https://aylaataydir.github.io/My_First_Project/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-0892d0?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+      </p>
+      <p><strong>HTML, CSS</strong></p>
+    </td>
+  <td width="50%" align="center" valign="top">
+      <h3>My Third Project</h3>
+      <a href="https://aylaataydir.github.io/My_Third_Project/" target="_blank">
+        <img src="My_Third_Project.png" alt="My Third Project" width="70%" />
+      </a>
+      <br/><br/>
+      <p>
+        <a href="https://github.com/Aylaataydir/My_Third_Project" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
+        </a>
+        <a href="https://aylaataydir.github.io/My_Third_Project/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-0892d0?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+      </p>
+      <p><strong>HTML, CSS</strong></p>
+    </td>
+    
+  </tr>
+
+  <!-- 2. Satır -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>My Third Project</h3>
+      <a href="https://aylaataydir.github.io/My_Third_Project/" target="_blank">
+        <img src="My_Third_Project.png" alt="My Third Project" width="70%" />
+      </a>
+      <br/><br/>
+      <p>
+        <a href="https://github.com/Aylaataydir/My_Third_Project" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
+        </a>
+        <a href="https://aylaataydir.github.io/My_Third_Project/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-0892d0?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+      </p>
+      <p><strong>HTML, CSS</strong></p>
+    </td>
+      <td width="50%" align="center" valign="top">
+      <h3>My Third Project</h3>
+      <a href="https://aylaataydir.github.io/My_Third_Project/" target="_blank">
+        <img src="My_Third_Project.png" alt="My Third Project" width="70%" />
+      </a>
+      <br/><br/>
+      <p>
+        <a href="https://github.com/Aylaataydir/My_Third_Project" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
+        </a>
+        <a href="https://aylaataydir.github.io/My_Third_Project/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-0892d0?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+      </p>
+      <p><strong>HTML, CSS</strong></p>
+    </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
-        <h3 align="center">My First Project</h3>
-        <div align="center">
-          <a href="https://aylaataydir.github.io/My_First_Project/" target="_blank">
-            <img src="My_First_Project.png" alt="My First Project" width="80%"  target="_blank" />
-          </a>
-          <br/><br/>
-          <p>
-            <a href="https://github.com/Aylaataydir/My_First_Project" target="_blank">
-              <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
-            </a>
-            <a href="https://aylaataydir.github.io/My_First_Project/" target="_blank">
-              <img src="https://img.shields.io/badge/Live-0892d0?style=for-the-badge&logo=vercel&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>HTML, CSS</strong></p>
-        </div>
-      </td>
+        <td width="50%" align="center" valign="top">
+      <h3>My Third Project</h3>
+      <a href="https://aylaataydir.github.io/My_Third_Project/" target="_blank">
+        <img src="My_Third_Project.png" alt="My Third Project" width="70%" />
+      </a>
+      <br/><br/>
+      <p>
+        <a href="https://github.com/Aylaataydir/My_Third_Project" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
+        </a>
+        <a href="https://aylaataydir.github.io/My_Third_Project/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-0892d0?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+      </p>
+      <p><strong>HTML, CSS</strong></p>
+    </td>
+        <td width="50%" align="center" valign="top">
+      <h3>My Third Project</h3>
+      <a href="https://aylaataydir.github.io/My_Third_Project/" target="_blank">
+        <img src="My_Third_Project.png" alt="My Third Project" width="70%" />
+      </a>
+      <br/><br/>
+      <p>
+        <a href="https://github.com/Aylaataydir/My_Third_Project" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
+        </a>
+        <a href="https://aylaataydir.github.io/My_Third_Project/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-0892d0?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+      </p>
+      <p><strong>HTML, CSS</strong></p>
+    </td>
     </tr>
-   
-  </table>
-</div>
+
+     
+  
+</table>
 
 ---
 
