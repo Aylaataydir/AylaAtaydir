@@ -23,8 +23,7 @@ Currently focused on **building responsive and interactive websites** and learni
 ---
 
 ## 🚀 Featured Projects  
-
-## 🚀 Featured Projects  
+ 
 
 <table>
   <!-- 1. Satır -->
