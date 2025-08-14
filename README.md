@@ -27,7 +27,7 @@ Currently focused on **building responsive and interactive websites** and learni
 <div align="center">
   <table>
     <tr>
-      <td width="100%">
+      <td width="50%" align="center">
         <h3 align="center">My First Project</h3>
         <div align="center">
           <a href="https://aylaataydir.github.io/My_First_Project/" target="_blank">
@@ -46,6 +46,27 @@ Currently focused on **building responsive and interactive websites** and learni
         </div>
       </td>
     </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3 align="center">My First Project</h3>
+        <div align="center">
+          <a href="https://aylaataydir.github.io/My_First_Project/" target="_blank">
+            <img src="My_First_Project.png" alt="My First Project" width="80%"  target="_blank" />
+          </a>
+          <br/><br/>
+          <p>
+            <a href="https://github.com/Aylaataydir/My_First_Project" target="_blank">
+              <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
+            </a>
+            <a href="https://aylaataydir.github.io/My_First_Project/" target="_blank">
+              <img src="https://img.shields.io/badge/Live-0892d0?style=for-the-badge&logo=vercel&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>HTML, CSS</strong></p>
+        </div>
+      </td>
+    </tr>
+   
   </table>
 </div>
 
