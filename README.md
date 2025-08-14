@@ -42,7 +42,7 @@ Currently focused on **building responsive and interactive websites** and learni
               <img src="https://img.shields.io/badge/Live-0892d0?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
-          <p><strong>HTML, CSS, JavaScript, Bootstrap</strong></p>
+          <p><strong>HTML, CSS</strong></p>
         </div>
       </td>
     </tr>
