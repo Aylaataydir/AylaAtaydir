@@ -94,9 +94,8 @@ Currently focused on **building responsive and interactive websites** and learni
      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     </p>
-
-    <br/>
-     </td>
+   <br/>
+   </td>
     
   <td width="50%" align="center" valign="top">
       <h3>Product Preview </h3>
