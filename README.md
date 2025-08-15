@@ -39,12 +39,12 @@ Currently focused on **building responsive and interactive websites** and learni
           <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
         </a>
         <a href="https://aylaataydir.github.io/Grid_Project/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-0892d0?style=for-the-badge&logo=vercel&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live-780000?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </p>
       <p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-003049?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-003049?style=for-the-badge&logo=css3&logoColor=white"/>
      </p>
        <br/>
     </td>
@@ -60,12 +60,12 @@ Currently focused on **building responsive and interactive websites** and learni
           <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
         </a>
         <a href="https://aylaataydir.github.io/My_Third_Project/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-0892d0?style=for-the-badge&logo=vercel&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live-780000?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </p>
       <p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></p>
+  <img src="https://img.shields.io/badge/HTML-003049?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-003049?style=for-the-badge&logo=css3&logoColor=white"/></p>
      <br/>
      </td>
     
@@ -86,13 +86,13 @@ Currently focused on **building responsive and interactive websites** and learni
           <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
         </a>
         <a href="https://aylaataydir.github.io/First_Figma_Project/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-0892d0?style=for-the-badge&logo=vercel&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live-780000?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </p>
       <p>
-     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+     <img src="https://img.shields.io/badge/HTML-003049?style=for-the-badge&logo=html5&logoColor=white"/>
+     <img src="https://img.shields.io/badge/CSS-003049?style=for-the-badge&logo=css3&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Figma-003049?style=for-the-badge&logo=figma&logoColor=white"/>
     </p>
    <br/>
    </td>
@@ -108,12 +108,12 @@ Currently focused on **building responsive and interactive websites** and learni
           <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
         </a>
         <a href="https://aylaataydir.github.io/Product_Preview_Card/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-0892d0?style=for-the-badge&logo=vercel&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live-780000?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </p>
       <p>
-       <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+       <img src="https://img.shields.io/badge/HTML-003049?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS-003049?style=for-the-badge&logo=css3&logoColor=white"/>
       </p>
 
   <br/>
@@ -136,12 +136,12 @@ Currently focused on **building responsive and interactive websites** and learni
           <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
         </a>
         <a href="https://aylaataydir.github.io/My_Third_Project/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-0892d0?style=for-the-badge&logo=vercel&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live-780000?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </p>
       <p>
-       <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-       <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+       <img src="https://img.shields.io/badge/HTML-003049?style=for-the-badge&logo=html5&logoColor=white"/>
+       <img src="https://img.shields.io/badge/CSS-003049?style=for-the-badge&logo=css3&logoColor=white"/>
      </p>
      <br/>
      </td>
@@ -157,12 +157,12 @@ Currently focused on **building responsive and interactive websites** and learni
           <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
         </a>
         <a href="https://aylaataydir.github.io/My_First_Project/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-0892d0?style=for-the-badge&logo=vercel&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live-780000?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </p>
       <p>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML-003049?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-003049?style=for-the-badge&logo=css3&logoColor=white"/>
       </p>
     <br/>
   </td>
