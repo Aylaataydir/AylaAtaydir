@@ -71,7 +71,7 @@ Currently focused on **building responsive and interactive websites** and learni
   <td width="50%" align="center" valign="top">
       <h3>My First Figma Project</h3>
       <a href="https://aylaataydir.github.io/First_Figma_Project/" target="_blank">
-        <img src="./images/My_first_Figma_Project.png"  width="35%" />
+        <img src="./images/My_first_Figma_Project.png"  width="38%" />
       </a>
       <br/><br/>
       <p>
