@@ -48,7 +48,7 @@ Currently focused on **building responsive and interactive websites** and learni
    <td width="50%" align="center" valign="top">
       <h3>Login Form</h3>
       <a href="https://aylaataydir.github.io/Login_Form/" target="_blank">
-        <img src="./images/Login_Form.png"  width="33%" />
+        <img src="./images/Login_Form.png"  width="31%" />
       </a>
       <br/><br/>
       <p>
