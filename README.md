@@ -43,6 +43,7 @@ Currently focused on **building responsive and interactive websites** and learni
         </a>
       </p>
       <p><strong>HTML, CSS</strong></p>
+       <br/>
     </td>
     
    <td width="50%" align="center" valign="top">
@@ -60,6 +61,7 @@ Currently focused on **building responsive and interactive websites** and learni
         </a>
       </p>
       <p><strong>HTML, CSS</strong></p>
+     <br/>
      </td>
     
   </tr>
@@ -83,6 +85,7 @@ Currently focused on **building responsive and interactive websites** and learni
         </a>
       </p>
       <p><strong>HTML, CSS, Figma</strong></p>
+    <br/>
      </td>
     
   <td width="50%" align="center" valign="top">
@@ -100,6 +103,7 @@ Currently focused on **building responsive and interactive websites** and learni
         </a>
       </p>
       <p><strong>HTML, CSS</strong></p>
+    <br/>
     </td>
     
   </tr>
@@ -123,6 +127,7 @@ Currently focused on **building responsive and interactive websites** and learni
         </a>
       </p>
       <p><strong>HTML, CSS</strong></p>
+    <br/>
      </td>
     
   <td width="50%" align="center" valign="top">
@@ -140,6 +145,7 @@ Currently focused on **building responsive and interactive websites** and learni
         </a>
       </p>
       <p><strong>HTML, CSS</strong></p>
+    <br/>
     </td>
     </tr>
 
