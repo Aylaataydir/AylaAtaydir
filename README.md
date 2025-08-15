@@ -59,7 +59,7 @@ Currently focused on **building responsive and interactive websites** and learni
         <a href="https://github.com/Aylaataydir/Login_Form" target="_blank">
           <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
         </a>
-        <a href="https://aylaataydir.github.io/My_Third_Project/" target="_blank">
+        <a href="https://aylaataydir.github.io/Login_Form/" target="_blank">
           <img src="https://img.shields.io/badge/Live-780000?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </p>
@@ -135,7 +135,7 @@ Currently focused on **building responsive and interactive websites** and learni
         <a href="https://github.com/Aylaataydir/Responsive_Order_Summary_Component" target="_blank">
           <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
         </a>
-        <a href="https://aylaataydir.github.io/My_Third_Project/" target="_blank">
+        <a href="https://aylaataydir.github.io/Responsive_Order_Summary_Component/" target="_blank">
           <img src="https://img.shields.io/badge/Live-780000?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </p>
