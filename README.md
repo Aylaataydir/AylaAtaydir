@@ -1,14 +1,12 @@
 # Hi there 👋  
 
-I’m **Ayla**, a passionate **Frontend Developer in training** 🚀  
-Currently focused on **building responsive and interactive websites** and learning step by step.  
 
 ---
 
 ## 🛠️ Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=html,css,figma&theme=dark&perline=4" />
 </p>
 
 ---
@@ -174,4 +172,4 @@ Currently focused on **building responsive and interactive websites** and learni
 
 ---
 
-✨ *Always learning, always building...*
+
