@@ -9,16 +9,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,figma&theme=dark&perline=4" />
 </p>
 
----
 
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aylaataydir&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aylaataydir&theme=tokyonight&hide_border=true" width="48%"/>
-</div>
-
----
 
 ## 🚀 Featured Projects  
  
