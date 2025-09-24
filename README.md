@@ -11,7 +11,7 @@
 
 
 
-## 🚀 Featured Projects  
+## 🚀 Projects  
  
 
 <table>
