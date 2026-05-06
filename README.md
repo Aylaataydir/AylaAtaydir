@@ -9,156 +9,46 @@
   <img src="https://skillicons.dev/icons?i=html,css&theme=dark&perline=4" />
 </p>
 
-
-
-## 🚀 Projects  
  
 
+## My projects
+
+<p align="left">
+  👉 <b>Please click on the project names to see the live demo of the projects</b> 👈
+</p>
+
 <table>
-  <!-- 3. Satır -->
-  <tr>
-     <td width="50%" align="center" valign="top">
-      <h3>My Responsive Grid Project</h3>
-      <a href="https://aylaataydir.github.io/Grid_Project/" target="_blank">
-        <img src="./images/grid1.png" alt="" width="53%" />
-      </a>
-      <br/><br/>
-      <p>
-        <a href="https://github.com/Aylaataydir/Grid_Project" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
-        </a>
-        <a href="https://aylaataydir.github.io/Grid_Project/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-780000?style=for-the-badge&logo=vercel&logoColor=white"/>
-        </a>
-      </p>
-      <p>
-  <img src="https://img.shields.io/badge/HTML-003049?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-003049?style=for-the-badge&logo=css3&logoColor=white"/>
-     </p>
-       <br/>
-    </td>
-    
-   <td width="50%" align="center" valign="top">
-      <h3>Login Form</h3>
-      <a href="https://aylaataydir.github.io/Login_Form/" target="_blank">
-        <img src="./images/Login_Form.png"  width="31%" />
-      </a>
-      <br/><br/>
-      <p>
-        <a href="https://github.com/Aylaataydir/Login_Form" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
-        </a>
-        <a href="https://aylaataydir.github.io/Login_Form/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-780000?style=for-the-badge&logo=vercel&logoColor=white"/>
-        </a>
-      </p>
-      <p>
-  <img src="https://img.shields.io/badge/HTML-003049?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-003049?style=for-the-badge&logo=css3&logoColor=white"/></p>
-     <br/>
-     </td>
-    
-  </tr>
-
-  <!-- 2. Satır -->
-  
-  <tr>
-    
-  <td width="50%" align="center" valign="top">
-      <h3>My First Figma Project</h3>
-      <a href="https://aylaataydir.github.io/First_Figma_Project/" target="_blank">
-        <img src="./images/My_first_Figma_Project.png"  width="38%" />
-      </a>
-      <br/><br/>
-      <p>
-        <a href="https://github.com/Aylaataydir/First_Figma_Project" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
-        </a>
-        <a href="https://aylaataydir.github.io/First_Figma_Project/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-780000?style=for-the-badge&logo=vercel&logoColor=white"/>
-        </a>
-      </p>
-      <p>
-     <img src="https://img.shields.io/badge/HTML-003049?style=for-the-badge&logo=html5&logoColor=white"/>
-     <img src="https://img.shields.io/badge/CSS-003049?style=for-the-badge&logo=css3&logoColor=white"/>
-     <img src="https://img.shields.io/badge/Figma-003049?style=for-the-badge&logo=figma&logoColor=white"/>
-    </p>
-   <br/>
-   </td>
-    
-  <td width="50%" align="center" valign="top">
-      <h3>Product Preview </h3>
-      <a href="https://aylaataydir.github.io/Product_Preview_Card/" target="_blank">
-        <img src="./images/Product_Preview.png" alt="My Third Project" width="42%" />
-      </a>
-      <br/><br/>
-      <p>
-        <a href="https://github.com/Aylaataydir/Product_Preview_Card" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
-        </a>
-        <a href="https://aylaataydir.github.io/Product_Preview_Card/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-780000?style=for-the-badge&logo=vercel&logoColor=white"/>
-        </a>
-      </p>
-      <p>
-       <img src="https://img.shields.io/badge/HTML-003049?style=for-the-badge&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS-003049?style=for-the-badge&logo=css3&logoColor=white"/>
-      </p>
-
-  <br/>
-  </td>
-    
-  </tr>
-
- <!-- 1. Satır -->
-  
-  <tr>
-    
-  <td width="50%" align="center" valign="top">
-      <h3>Order Summary</h3>
-      <a href="https://aylaataydir.github.io/Responsive_Order_Summary_Component/" target="_blank">
-        <img src="./images/Order-Summary.png"  width="32%" />
-      </a>
-      <br/><br/>
-      <p>
-        <a href="https://github.com/Aylaataydir/Responsive_Order_Summary_Component" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
-        </a>
-        <a href="https://aylaataydir.github.io/Responsive_Order_Summary_Component/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-780000?style=for-the-badge&logo=vercel&logoColor=white"/>
-        </a>
-      </p>
-      <p>
-       <img src="https://img.shields.io/badge/HTML-003049?style=for-the-badge&logo=html5&logoColor=white"/>
-       <img src="https://img.shields.io/badge/CSS-003049?style=for-the-badge&logo=css3&logoColor=white"/>
-     </p>
-     <br/>
-     </td>
-    
-  <td width="50%" align="center" valign="top">
-      <h3>My First Project</h3>
-      <a href="https://aylaataydir.github.io/My_First_Project/" target="_blank">
-        <img src="./images/My_First_Project.png" alt="My First Project" width="50%" />
-      </a>
-      <br/><br/>
-      <p>
-        <a href="https://github.com/Aylaataydir/My_First_Project" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
-        </a>
-        <a href="https://aylaataydir.github.io/My_First_Project/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-780000?style=for-the-badge&logo=vercel&logoColor=white"/>
-        </a>
-      </p>
-      <p>
-      <img src="https://img.shields.io/badge/HTML-003049?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS-003049?style=for-the-badge&logo=css3&logoColor=white"/>
-      </p>
-    <br/>
-  </td>
-  </tr>
-
-     
-  
+  <thead>
+    <tr>
+      <th align="left">Project Name</th>
+      <th align="left">Libraries and Technologies I use</th>
+      <th align="left">How does my project look</th>
+      <th align="left">Source Codes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- 1. Proje: Bloggio -->
+    <tr>
+      <td><a href="CANLI_DEMO_LINKI"><b>Bloggio</b></a></td>
+      <td>React, TypeScript, NodeJS, ExpressJS, MongoDB (Mongoose), Redux, TailwindCSS, Sweet-Alert, Docker, AWS-S3</td>
+      <td><img src="https://via.placeholder.com/300x150.png?text=Bloggio+Preview" width="300" alt="Bloggio Preview"></td>
+      <td><a href="GITHUB_REPO_LINKI">Source Code</a></td>
+    </tr>
+    <!-- 2. Proje: Habithub -->
+    <tr>
+      <td><a href="CANLI_DEMO_LINKI"><b>Habithub</b></a></td>
+      <td>React, TypeScript, NodeJS, ExpressJS, MongoDB (Mongoose), Redux, TailwindCSS, Sweet-Alert, Docker, AWS-S3</td>
+      <td><img src="https://via.placeholder.com/300x150.png?text=Habithub+Preview" width="300" alt="Habithub Preview"></td>
+      <td><a href="GITHUB_REPO_LINKI">Source Code</a></td>
+    </tr>
+    <!-- 3. Proje: Novelit -->
+    <tr>
+      <td><a href="CANLI_DEMO_LINKI"><b>Novelit</b></a></td>
+      <td>React, TypeScript, NodeJS, ExpressJS, SQLite (Sequelize), ContextAPI, TailwindCSS, Sweet-Alert, React-Router, Axios</td>
+      <td><img src="https://via.placeholder.com/300x150.png?text=Novelit+Preview" width="300" alt="Novelit Preview"></td>
+      <td><a href="GITHUB_REPO_LINKI">Source Code</a></td>
+    </tr>
+  </tbody>
 </table>
 
 ---
