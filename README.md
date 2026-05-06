@@ -29,22 +29,22 @@
   <tbody>
     <!-- 1. Proje: Bloggio -->
     <tr>
-      <td><a href="CANLI_DEMO_LINKI"><b>Bloggio</b></a></td>
-      <td>React, TypeScript, NodeJS, ExpressJS, MongoDB (Mongoose), Redux, TailwindCSS, Sweet-Alert, Docker, AWS-S3</td>
+      <td><a href="CANLI_DEMO_LINKI"><b>Blog</b></a></td>
+      <td></td>
       <td><img src="https://via.placeholder.com/300x150.png?text=Bloggio+Preview" width="300" alt="Bloggio Preview"></td>
       <td><a href="GITHUB_REPO_LINKI">Source Code</a></td>
     </tr>
     <!-- 2. Proje: Habithub -->
     <tr>
-      <td><a href="CANLI_DEMO_LINKI"><b>Habithub</b></a></td>
-      <td>React, TypeScript, NodeJS, ExpressJS, MongoDB (Mongoose), Redux, TailwindCSS, Sweet-Alert, Docker, AWS-S3</td>
+      <td><a href="CANLI_DEMO_LINKI"><b></b></a></td>
+      <td></td>
       <td><img src="https://via.placeholder.com/300x150.png?text=Habithub+Preview" width="300" alt="Habithub Preview"></td>
       <td><a href="GITHUB_REPO_LINKI">Source Code</a></td>
     </tr>
     <!-- 3. Proje: Novelit -->
     <tr>
-      <td><a href="CANLI_DEMO_LINKI"><b>Novelit</b></a></td>
-      <td>React, TypeScript, NodeJS, ExpressJS, SQLite (Sequelize), ContextAPI, TailwindCSS, Sweet-Alert, React-Router, Axios</td>
+      <td><a href="CANLI_DEMO_LINKI"><b></b></a></td>
+      <td></td>
       <td><img src="https://via.placeholder.com/300x150.png?text=Novelit+Preview" width="300" alt="Novelit Preview"></td>
       <td><a href="GITHUB_REPO_LINKI">Source Code</a></td>
     </tr>
