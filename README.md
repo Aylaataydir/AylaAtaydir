@@ -23,12 +23,18 @@
     </tr>
   </thead>
   <tbody>
+     <!--  Proje -->
+    <tr>
+      <td><a href="https://my-todo-app-cat.netlify.app/"><b>Todo App</b></a></td>
+      <td>CSS, React</td>
+      <td><img width="300" alt="Screenshot 2026-05-06 161355" src="https://github.com/user-attachments/assets/0c4e9a1c-9bd9-40c2-a5e5-e65982c25436" /></td>
+      <td><a href="https://github.com/Aylaataydir/TodoList-App">Repo</a></td>
+    </tr>
     <!--  Proje -->
     <tr>
       <td><a href="https://characterr-counter.netlify.app/"><b>Character Counter</b></a></td>
       <td>HTML, CSS, JavaScript</td>
-      <td><img alt="" src="https://github.com/user-attachments/assets/9e1fc2ec-4c50-46f1-a7a3-faa1be5212fa" />
-</td>
+      <td><img alt="" src="https://github.com/user-attachments/assets/9e1fc2ec-4c50-46f1-a7a3-faa1be5212fa" /></td>
       <td><a href="https://github.com/Aylaataydir/character-counter">Repo</a></td>
     </tr>
     <!-- Proje: -->
