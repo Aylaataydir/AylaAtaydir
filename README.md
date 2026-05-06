@@ -6,7 +6,7 @@
 ## 🛠️ Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,react&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwind,react&theme=dark&perline=8" />
 </p>
 
  
