@@ -29,10 +29,11 @@
   <tbody>
     <!-- 1. Proje: Bloggio -->
     <tr>
-      <td><a href="CANLI_DEMO_LINKI"><b>Blog</b></a></td>
-      <td></td>
-      <td></td>
-      <td><a href="GITHUB_REPO_LINKI">Source Code</a></td>
+      <td><a href="https://characterr-counter.netlify.app/"><b>Character Counter</b></a></td>
+      <td>HTML, CSS, JavaScipt</td>
+      <td><img width="600"  alt="" src="https://github.com/user-attachments/assets/9e1fc2ec-4c50-46f1-a7a3-faa1be5212fa" />
+</td>
+      <td><a href="https://github.com/Aylaataydir/character-counter">Source Code</a></td>
     </tr>
     <!-- 2. Proje: Habithub -->
     <tr>
