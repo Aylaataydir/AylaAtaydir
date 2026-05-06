@@ -17,7 +17,7 @@
   <thead>
     <tr>
       <th width="20%" align="left">Project Name</th>
-      <th width="30%" align="left">Technologies</th>
+      <th width="30%" align="left">Libraries & Technologies</th>
       <th width="40%" align="left">Project Preview</th>
       <th width="10%" align="left">Visit Repo</th>
     </tr>
