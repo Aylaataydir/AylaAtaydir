@@ -27,21 +27,21 @@
     <tr>
       <td><a href="https://patient-registration-system-v1.netlify.app/"><b>Patient Registration System</b></a></td>
       <td>CSS, React</td>
-      <td><img width="1829" height="842" alt="Screenshot 2026-05-06 181247" src="https://github.com/user-attachments/assets/c8319511-4dc3-43b1-8b44-4f593385af3b" /></td>
+      <td><img alt="Screenshot 2026-05-06 181247" src="https://github.com/user-attachments/assets/c8319511-4dc3-43b1-8b44-4f593385af3b" /></td>
       <td><a href="https://github.com/Aylaataydir/Patient-Registration-App">Repo</a></td>
     </tr>
      <!--  Proje -->
     <tr>
       <td><a href="https://my-todo-app-cat.netlify.app/"><b>Todo App</b></a></td>
       <td>CSS, React</td>
-      <td><img width="1844" height="837" alt="Screenshot 2026-05-06 162402" src="https://github.com/user-attachments/assets/81736460-ceca-48d7-92d7-f01528829bdb" /></td>
+      <td><img  alt="Screenshot 2026-05-06 162402" src="https://github.com/user-attachments/assets/81736460-ceca-48d7-92d7-f01528829bdb" /></td>
       <td><a href="https://github.com/Aylaataydir/TodoList-App">Repo</a></td>
     </tr>
      <!--  Proje -->
     <tr>
       <td><a href="https://horoscope-app-v1.netlify.app/"><b>Horoscope App</b></a></td>
       <td>SaSS, React</td>
-      <td><img width="1806" height="847" alt="Screenshot 2026-05-06 175433" src="https://github.com/user-attachments/assets/f60e2a57-2d74-4a00-b05b-da12bbba8d4c" /></td>
+      <td><img  alt="Screenshot 2026-05-06 175433" src="https://github.com/user-attachments/assets/f60e2a57-2d74-4a00-b05b-da12bbba8d4c" /></td>
       <td><a href="https://github.com/Aylaataydir/horoscope-app">Repo</a></td>
     </tr>
     <!--  Proje -->
