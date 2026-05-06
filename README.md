@@ -30,8 +30,8 @@
     <!-- 1. Proje: Bloggio -->
     <tr>
       <td><a href="https://characterr-counter.netlify.app/"><b>Character Counter</b></a></td>
-      <td>HTML, CSS, JavaScipt</td>
-      <td><img width="600"  alt="" src="https://github.com/user-attachments/assets/9e1fc2ec-4c50-46f1-a7a3-faa1be5212fa" />
+      <td>HTML, CSS, JavaScript</td>
+      <td><img width="400"  alt="" src="https://github.com/user-attachments/assets/9e1fc2ec-4c50-46f1-a7a3-faa1be5212fa" />
 </td>
       <td><a href="https://github.com/Aylaataydir/character-counter">Source Code</a></td>
     </tr>
