@@ -27,7 +27,7 @@
     <tr>
       <td><a href="https://my-todo-app-cat.netlify.app/"><b>Todo App</b></a></td>
       <td>CSS, React</td>
-      <td><img width="300" alt="Screenshot 2026-05-06 161355" src="https://github.com/user-attachments/assets/0c4e9a1c-9bd9-40c2-a5e5-e65982c25436" /></td>
+      <td><img alt="Screenshot 2026-05-06 161355" src="https://github.com/user-attachments/assets/0c4e9a1c-9bd9-40c2-a5e5-e65982c25436" /></td>
       <td><a href="https://github.com/Aylaataydir/TodoList-App">Repo</a></td>
     </tr>
     <!--  Proje -->
