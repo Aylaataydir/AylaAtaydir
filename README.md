@@ -13,17 +13,13 @@
 
 ## My projects
 
-<p align="left">
-  👉 <b>Please click on the project names to see the live demo of the projects</b> 👈
-</p>
-
 <table width="100%">
   <thead>
     <tr>
-      <th align="left">Project Name</th>
-      <th align="left">Technologies</th>
-      <th align="left">Project Preview</th>
-      <th align="left">Visit Repo</th>
+      <th width="20%" align="left">Project Name</th>
+      <th width="20%" align="left">Technologies</th>
+      <th width="40%" align="left">Project Preview</th>
+      <th width="20%" align="left">Visit Repo</th>
     </tr>
   </thead>
   <tbody>
