@@ -37,19 +37,19 @@
       <td><img alt="" src="https://github.com/user-attachments/assets/9e1fc2ec-4c50-46f1-a7a3-faa1be5212fa" /></td>
       <td><a href="https://github.com/Aylaataydir/character-counter">Repo</a></td>
     </tr>
-    <!--  Proje -->
-    <tr>
-      <td><a href="https://portfolio-single-page.netlify.app/"><b>Single Page Portfolio</b></a></td>
-      <td>HTML, CSS, JavaScript</td>
-      <td><img alt="Screenshot 2026-05-06 173157" src="https://github.com/user-attachments/assets/8545c511-bc32-4e6a-a935-4a4a1cd80d78" /></td>
-      <td><a href="https://github.com/Aylaataydir/Portfolio">Repo</a></td>
-    </tr>
     <!-- Proje: -->
     <tr>
       <td><a href="https://guess-the-number-game-v1.netlify.app/"><b>Guess My Number</b></a></td>
       <td>HTML, CSS, JavaScript</td>
       <td><img alt="Screenshot 2026-05-06 150050" src="https://github.com/user-attachments/assets/a07b6733-7904-4b70-af27-8cf3cf31f64f" /></td>
       <td><a href="https://github.com/Aylaataydir/Project_GuessMyNumber">Repo</a></td>
+    </tr>
+       <!--  Proje -->
+    <tr>
+      <td><a href="https://portfolio-single-page.netlify.app/"><b>Single Page Portfolio</b></a></td>
+      <td>HTML, CSS, JavaScript</td>
+      <td><img alt="Screenshot 2026-05-06 173157" src="https://github.com/user-attachments/assets/8545c511-bc32-4e6a-a935-4a4a1cd80d78" /></td>
+      <td><a href="https://github.com/Aylaataydir/Portfolio">Repo</a></td>
     </tr>
     <!-- Proje -->
      <tr>
