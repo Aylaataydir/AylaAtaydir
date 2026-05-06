@@ -39,7 +39,7 @@
     <tr>
       <td><a href="https://guess-the-number-game-v1.netlify.app/"><b>Guess My Number</b></a></td>
       <td>HTML, CSS, JavaScript</td>
-      <td><img width="1027" height="841" alt="Screenshot 2026-05-06 144605" src="https://github.com/user-attachments/assets/6c4bfdc9-7e68-4a98-8807-fa60c98cff7f" />
+      <td><img width="300" alt="" src="https://github.com/user-attachments/assets/6c4bfdc9-7e68-4a98-8807-fa60c98cff7f" />
 </td>
       <td><a href="https://github.com/Aylaataydir/Project_GuessMyNumber">Source Code</a></td>
     </tr>
@@ -47,7 +47,7 @@
     <tr>
       <td><a href="CANLI_DEMO_LINKI"><b>Checkout Page</b></a></td>
       <td>HTML, CSS, JavaScript</td>
-      <td><img width="1185" height="843" alt="Screenshot 2026-05-06 144531" src="https://github.com/user-attachments/assets/5b812b29-8919-48eb-9f21-6531476b14e4" />
+      <td><img width="300" alt="" src="https://github.com/user-attachments/assets/5b812b29-8919-48eb-9f21-6531476b14e4" />
 </td>
       <td><a href="https://github.com/Aylaataydir/checkout_page">Source Code</a></td>
     </tr>
