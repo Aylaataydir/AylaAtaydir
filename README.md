@@ -21,9 +21,9 @@
   <thead>
     <tr>
       <th align="left">Project Name</th>
-      <th align="left">Libraries and Technologies I use</th>
-      <th align="left">How does my project look</th>
-      <th align="left">Source Codes</th>
+      <th align="left">Technologies</th>
+      <th align="left">Project Preview</th>
+      <th align="left">Visit Repo</th>
     </tr>
   </thead>
   <tbody>
