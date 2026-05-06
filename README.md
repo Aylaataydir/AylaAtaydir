@@ -17,7 +17,7 @@
   👉 <b>Please click on the project names to see the live demo of the projects</b> 👈
 </p>
 
-<table>
+<table width="100%">
   <thead>
     <tr>
       <th align="left">Project Name</th>
@@ -44,7 +44,7 @@
     </tr>
     <!-- Proje -->
     <tr>
-      <td><a href="CANLI_DEMO_LINKI"><b>Checkout Page</b></a></td>
+      <td><a href="https://my-checkout-page-ui.netlify.app/"><b>Checkout Page</b></a></td>
       <td>HTML, CSS, JavaScript</td>
       <td><img width="300"  alt="Screenshot 2026-05-06 150128" src="https://github.com/user-attachments/assets/81e60fb2-ec82-492d-b3f7-f5b3d9939f5d" /></td>
       <td><a href="https://github.com/Aylaataydir/checkout_page">Source Code</a></td>
