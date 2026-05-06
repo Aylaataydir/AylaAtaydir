@@ -51,6 +51,13 @@
       <td><img  alt="Screenshot 2026-05-06 150128" src="https://github.com/user-attachments/assets/81e60fb2-ec82-492d-b3f7-f5b3d9939f5d" /></td>
       <td><a href="https://github.com/Aylaataydir/checkout_page">Repo</a></td>
     </tr>
+      <!-- Proje -->
+    <tr>
+      <td><a href="https://fylo-dark-theme-landing-page-master-v.netlify.app/"><b>Fylo Landing Page</b></a></td>
+      <td>HTML, CSS, JavaScript</td>
+      <td><img alt="Screenshot 2026-05-06 170719" src="https://github.com/user-attachments/assets/1e0dd3f2-32a2-4751-9d3c-d43fc9569308" /></td>
+      <td><a href="https://github.com/Aylaataydir/checkout_page">Repo</a></td>
+    </tr>
   </tbody>
 </table>
 
