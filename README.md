@@ -31,21 +31,21 @@
     <tr>
       <td><a href="CANLI_DEMO_LINKI"><b>Blog</b></a></td>
       <td></td>
-      <td><img src="https://via.placeholder.com/300x150.png?text=Blog+Preview" width="300" alt="Bloggio Preview"></td>
+      <td></td>
       <td><a href="GITHUB_REPO_LINKI">Source Code</a></td>
     </tr>
     <!-- 2. Proje: Habithub -->
     <tr>
       <td><a href="CANLI_DEMO_LINKI"><b></b></a></td>
       <td></td>
-      <td><img src="https://via.placeholder.com/300x150.png?+Preview" width="300" alt="Habithub Preview"></td>
+      <td></td>
       <td><a href="GITHUB_REPO_LINKI">Source Code</a></td>
     </tr>
     <!-- 3. Proje: Novelit -->
     <tr>
       <td><a href="CANLI_DEMO_LINKI"><b></b></a></td>
       <td></td>
-      <td><img src="https://via.placeholder.com/300x150.png?text=+Preview" width="300" alt="Novelit Preview"></td>
+      <td></td>
       <td><a href="GITHUB_REPO_LINKI">Source Code</a></td>
     </tr>
   </tbody>
