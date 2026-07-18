@@ -35,7 +35,6 @@
 <br>
 
 ### 🛠️ Tech Stack & Tools
-
 <div align="center">
 
 <table border="0" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border: none;">
