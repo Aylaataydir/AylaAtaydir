@@ -74,6 +74,71 @@
 </table>
 <br>
 
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F7D9D9,50:E4D4F4,100:D4E8F7&height=200&section=header&text=Hi,%20I'm%20Ayla!&fontSize=42&fontColor=6B5B6E&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20✨&descAlignY=58&descSize=18" />
+<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=26&duration=3500&pause=1000&color=C99FA8&center=true&vCenter=true&width=600&lines=crafting+cozy%2C+functional+web+apps+%F0%9F%8C%B7;powered+by+coffee+%26+curiosity+%E2%98%95;always+learning+something+new+%E2%9C%A8" alt="Typing SVG" />
+</div>
+<br>
+<div align="center">
+<img src="https://img.shields.io/badge/-2%20followers-F7D9D9?style=for-the-badge&logoColor=6B5B6E" />
+<img src="https://img.shields.io/badge/-2%20following-E4D4F4?style=for-the-badge&logoColor=6B5B6E" />
+<img src="https://img.shields.io/badge/-open%20to%20collab-D4E8F7?style=for-the-badge&logoColor=6B5B6E" />
+</div>
+<br>
+<div align="center">
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+</div>
+🌸 Tech Stack & Tools
+
+<div align="center">
+Languages
+<br>
+<img src="https://img.shields.io/badge/HTML5-F7D9D9?style=for-the-badge&logo=html5&logoColor=8A5A5A" />
+<img src="https://img.shields.io/badge/CSS3-D4E8F7?style=for-the-badge&logo=css3&logoColor=4A6E8A" />
+<img src="https://img.shields.io/badge/JavaScript-F7ECC9?style=for-the-badge&logo=javascript&logoColor=8A7A2A" />
+<img src="https://img.shields.io/badge/TypeScript-D4DFF7?style=for-the-badge&logo=typescript&logoColor=41537d" />
+
+<br><br>
+
+Frontend
+<br>
+<img src="https://img.shields.io/badge/React-E4D4F4?style=for-the-badge&logo=react&logoColor=6B4E8A" />
+<img src="https://img.shields.io/badge/Sass-F4D4E4?style=for-the-badge&logo=sass&logoColor=8A4E6B" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-CDEFE3?style=for-the-badge&logo=tailwindcss&logoColor=2f7a5f" />
+<img src="https://img.shields.io/badge/Bootstrap-D9CCF0?style=for-the-badge&logo=bootstrap&logoColor=5b3d99" />
+
+<br><br>
+
+Backend & DB
+<br>
+<img src="https://img.shields.io/badge/Node.js-CFE8CB?style=for-the-badge&logo=nodedotjs&logoColor=3e6b38" />
+<img src="https://img.shields.io/badge/Express-E3DCD3?style=for-the-badge&logo=express&logoColor=4a4a4a" />
+<img src="https://img.shields.io/badge/MongoDB-CDEAD4?style=for-the-badge&logo=mongodb&logoColor=2f6b40" />
+<img src="https://img.shields.io/badge/Mongoose-F0D2D2?style=for-the-badge&logo=mongoose&logoColor=8a3a3a" />
+
+<br><br>
+
+Tools & DevOps
+<br>
+<img src="https://img.shields.io/badge/Git-F0D9C2?style=for-the-badge&logo=git&logoColor=8a5a2a" />
+<img src="https://img.shields.io/badge/GitHub-E0DCE8?style=for-the-badge&logo=github&logoColor=4a3f5c" />
+
+</div>
+<br>
+📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AylaAtaydir&show_icons=true&theme=cottoncandy&hide_border=true&title_color=8A5A6B&text_color=6B5B6E&icon_color=C99FA8&bg_color=00000000" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AylaAtaydir&theme=default&hide_border=true&background=00000000&stroke=E4D4F4&ring=C99FA8&fire=E8B4B4&currStreakLabel=8A5A6B&sideLabels=6B5B6E&dates=A89BA0" height="180" />
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AylaAtaydir&layout=compact&theme=cottoncandy&hide_border=true&title_color=8A5A6B&text_color=6B5B6E&bg_color=00000000" height="165" />
+</div>
+<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4E8F7,50:E4D4F4,100:F7D9D9&height=120&section=footer" />
+</div>
+
 ---
 
 <br>
