@@ -94,6 +94,8 @@
 
 ### 💻 My projects
 
+<br>
+
 <table width="100%">
   <thead>
     <tr>
