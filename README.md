@@ -24,8 +24,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=40&duration=3500&pause=1000&color=E6A100&center=true&vCenter=true&width=700&lines=Hi%2C+I+am+Ayla!;Welcome+to+my+profile!" alt="Typing SVG" />
 </div>  -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&duration=3500&pause=1000&color=E8967A&center=true&vCenter=true&width=700&lines=Hi%2C+I+am+Ayla!;Welcome+to+my+profile!" alt="Typing SVG" />
+</div> -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=38&duration=3500&pause=1000&color=D68C87&center=true&vCenter=true&width=700&lines=Hi%2C+I+am+Ayla!;Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
 <br>
