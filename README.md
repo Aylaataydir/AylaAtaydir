@@ -72,14 +72,6 @@
     </td>
   </tr>
 </table>
-<br>
-
-
-<br>
-<div align="center">
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
-</div>
-🌸 Tech Stack & Tools
 
 <div align="center">
 Languages
@@ -116,6 +108,79 @@ Tools & DevOps
 
 </div>
 <br>
+
+---
+
+<div align="center">
+
+<img src="./assets/banner-header.svg" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=24&duration=3500&pause=1000&color=E8967A&center=true&vCenter=true&width=600&lines=crafting+cozy%2C+functional+web+apps+%F0%9F%8D%82;powered+by+coffee+%26+curiosity+%E2%98%95;always+learning+something+new+%E2%9C%A8" alt="Typing SVG" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/-2%20followers-E8967A?style=for-the-badge&logoColor=FBF3EA&labelColor=5B4147" />
+<img src="https://img.shields.io/badge/-2%20following-94A88A?style=for-the-badge&logoColor=FBF3EA&labelColor=5B4147" />
+<img src="https://img.shields.io/badge/-open%20to%20collab-E8B974?style=for-the-badge&logoColor=5B4147&labelColor=5B4147" />
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" />
+
+## 🍂 Tech Stack & Tools
+
+<div align="center">
+
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/HTML5-E8967A?style=for-the-badge&logo=html5&logoColor=FBF3EA" />
+<img src="https://img.shields.io/badge/CSS3-94A88A?style=for-the-badge&logo=css3&logoColor=FBF3EA" />
+<img src="https://img.shields.io/badge/JavaScript-E8B974?style=for-the-badge&logo=javascript&logoColor=5B4147" />
+<img src="https://img.shields.io/badge/TypeScript-D68C87?style=for-the-badge&logo=typescript&logoColor=FBF3EA" />
+
+<br><br>
+
+**Frontend**
+<br>
+<img src="https://img.shields.io/badge/React-5B4147?style=for-the-badge&logo=react&logoColor=E8B974" />
+<img src="https://img.shields.io/badge/Sass-D68C87?style=for-the-badge&logo=sass&logoColor=FBF3EA" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-94A88A?style=for-the-badge&logo=tailwindcss&logoColor=FBF3EA" />
+<img src="https://img.shields.io/badge/Bootstrap-E8967A?style=for-the-badge&logo=bootstrap&logoColor=FBF3EA" />
+
+<br><br>
+
+**Backend & DB**
+<br>
+<img src="https://img.shields.io/badge/Node.js-5B4147?style=for-the-badge&logo=nodedotjs&logoColor=E8B974" />
+<img src="https://img.shields.io/badge/Express-E8B974?style=for-the-badge&logo=express&logoColor=5B4147" />
+<img src="https://img.shields.io/badge/MongoDB-94A88A?style=for-the-badge&logo=mongodb&logoColor=FBF3EA" />
+<img src="https://img.shields.io/badge/Mongoose-D68C87?style=for-the-badge&logo=mongoose&logoColor=FBF3EA" />
+
+<br><br>
+
+**Tools & DevOps**
+<br>
+<img src="https://img.shields.io/badge/Git-E8967A?style=for-the-badge&logo=git&logoColor=FBF3EA" />
+<img src="https://img.shields.io/badge/GitHub-5B4147?style=for-the-badge&logo=github&logoColor=FBF3EA" />
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" />
+
+## 🍑 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AylaAtaydir&show_icons=true&hide_border=true&title_color=5B4147&text_color=5B4147&icon_color=E8967A&bg_color=00000000&ring_color=D68C87" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AylaAtaydir&hide_border=true&background=00000000&stroke=5B4147&ring=E8967A&fire=D68C87&currStreakLabel=5B4147&sideLabels=5B4147&dates=5B4147" height="180" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AylaAtaydir&layout=compact&hide_border=true&title_color=5B4147&text_color=5B4147&bg_color=00000000&langs_count=8" height="165" />
+</div>
+
+<br>
+
+<img src="./assets/banner-footer.svg" width="100%" />
 
 
 ---
