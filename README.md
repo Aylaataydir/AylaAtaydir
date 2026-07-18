@@ -21,7 +21,7 @@
 </div>
 
 <p align="center">
-  ✨ <i>Frontend Developer passionate about building clean, aesthetic, and user-centric web applications.</i> ✨
+  ✨ <i>Full-Stack Developer passionate about building clean, aesthetic, and user-centric web applications.</i> ✨
 </p>
 
 ---
@@ -29,23 +29,32 @@
 <!-- 2. BÖLÜM: YENİ SEVİMLİ VE DÜZENLİ TECH STACK -->
 ### 🛠️ Tech Stack & Tools
 
-<table>
-  <tr>
-    <td align="center" width="120" style="border: none;"><b>Languages</b></td>
-    <td style="border: none;">
+<table border="0" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="left" width="160" style="border: none; padding: 8px 0;"><b>Languages</b></td>
+    <td style="border: none; padding: 8px 0;">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     </td>
   </tr>
-  <tr>
-    <td align="center" width="120" style="border: none;"><b>Frameworks</b></td>
-    <td style="border: none;">
+  <tr style="border: none;">
+    <td align="left" width="160" style="border: none; padding: 8px 0;"><b>Frontend</b></td>
+    <td style="border: none; padding: 8px 0;">
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="left" width="160" style="border: none; padding: 8px 0;"><b>Backend & DB</b></td>
+    <td style="border: none; padding: 8px 0;">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
     </td>
   </tr>
 </table>
