@@ -36,7 +36,7 @@
 
 <h3>🛠️ Tech Stack & Tools</h3>
 
-<hr width="60%" style="height: 0px; border: none; border-top: 1px solid rgba(255, 255, 255, 0.15); margin-top: -5px; margin-bottom: 20px;" />
+<div style="width: 60%; height: 1px; background-color: rgba(255, 255, 255, 0.1); margin-top: -5px; margin-bottom: 25px;"></div>
 
 <table border="0" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
