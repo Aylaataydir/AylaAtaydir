@@ -77,7 +77,7 @@
 ---
 
 <br>
-<!-- 3. BÖLÜM: PROJELER BAŞLIĞI -->
+
 ### 💻 My projects
 
 <table width="100%">
