@@ -185,6 +185,52 @@ Tools & DevOps
 
 ---
 
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F6DCC5"/>
+      <stop offset="55%" stop-color="#EFC3AE"/>
+      <stop offset="100%" stop-color="#E3AE9C"/>
+    </linearGradient>
+    <filter id="blurA" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="35"/>
+    </filter>
+    <filter id="blurB" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="48"/>
+    </filter>
+    <path id="spark" d="M0,-9 L2.2,-2.2 L9,0 L2.2,2.2 L0,9 L-2.2,2.2 L-9,0 L-2.2,-2.2 Z"/>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bgGrad)"/>
+
+  <circle cx="140" cy="235" r="95" fill="#94A88A" opacity="0.30" filter="url(#blurA)"/>
+  <circle cx="1080" cy="55" r="125" fill="#D68C87" opacity="0.32" filter="url(#blurB)"/>
+  <circle cx="630" cy="275" r="75" fill="#E8B974" opacity="0.25" filter="url(#blurA)"/>
+  <circle cx="1000" cy="260" r="55" fill="#94A88A" opacity="0.22" filter="url(#blurA)"/>
+
+  <use href="#spark" x="95" y="70" fill="#5B4147" opacity="0.45" transform="rotate(10 95 70)"/>
+  <use href="#spark" x="1010" y="230" fill="#5B4147" opacity="0.4" transform="scale(1.3) rotate(-8)"/>
+  <use href="#spark" x="560" y="45" fill="#5B4147" opacity="0.35"/>
+  <use href="#spark" x="960" y="140" fill="#FBF3EA" opacity="0.55" transform="rotate(20 960 140)"/>
+  <use href="#spark" x="240" y="115" fill="#5B4147" opacity="0.3" transform="scale(0.8)"/>
+  <use href="#spark" x="720" y="245" fill="#FBF3EA" opacity="0.5" transform="scale(1.1) rotate(15)"/>
+  <use href="#spark" x="60" y="180" fill="#5B4147" opacity="0.25" transform="scale(0.7)"/>
+
+  <path d="M0,292 C150,272 300,302 450,287 C600,272 750,297 900,282 C1050,270 1150,287 1200,280"
+        stroke="#5B4147" stroke-width="2" fill="none" opacity="0.28"
+        stroke-linecap="round" stroke-dasharray="1,11"/>
+
+  <text x="600" y="148" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+        font-size="56" fill="#5B4147" font-weight="bold">Hi, I'm Ayla</text>
+  <text x="600" y="190" text-anchor="middle" font-family="Verdana, Geneva, sans-serif"
+        font-size="18" fill="#5B4147" opacity="0.78" letter-spacing="1">Full-Stack Developer · crafting cozy, functional web experiences</text>
+</svg>
+
+
+
+
+---
+
 <br>
 
 ### 💻 My projects
