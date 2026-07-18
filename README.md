@@ -93,7 +93,7 @@
 
 
 ### 💻 My projects
-<hr width="60%" style="opacity: 0.2; margin-top: -5px; margin-bottom: 20px;" />
+
 <table width="100%">
   <thead>
     <tr>
