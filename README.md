@@ -34,8 +34,9 @@
 
 <br>
 
-### 🛠️ Tech Stack & Tools
 <div align="center">
+
+<h3>🛠️ Tech Stack & Tools</h3>
 
 <table border="0" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
@@ -82,7 +83,6 @@
 
 ### 💻 My projects
 
-<div align="center">
 
 <table width="100%">
   <thead>
