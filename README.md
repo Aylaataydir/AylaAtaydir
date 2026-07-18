@@ -33,7 +33,7 @@
 </div> -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Baloo+2&size=38&duration=3500&pause=1000&color=E0A526&center=true&vCenter=true&width=700&lines=Hi%2C+I+am+Ayla!;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Baloo+2&size=48&duration=3500&pause=1000&color=E0A526&center=true&vCenter=true&width=700&lines=Hi%2C+I+am+Ayla!;Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
 
