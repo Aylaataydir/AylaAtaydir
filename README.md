@@ -100,7 +100,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F59E0B?style=for-the-badge&logo=javascript&logoColor=1A1A2E" />
 <img src="https://img.shields.io/badge/TypeScript-6366F1?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />
 
-<br><br>
+<br>
 
 <sub>FRONTEND</sub>
 <br>
@@ -109,7 +109,7 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-14B8A6?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/Bootstrap-7C3AED?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF" />
 
-<br><br>
+<br>
 
 <sub>BACKEND & DB</sub>
 <br>
@@ -118,7 +118,7 @@
 <img src="https://img.shields.io/badge/MongoDB-10B981?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/Mongoose-F43F5E?style=for-the-badge&logo=mongoose&logoColor=FFFFFF" />
 
-<br><br>
+<br>
 
 <sub>TOOLS & DEVOPS</sub>
 <br>
