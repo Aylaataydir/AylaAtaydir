@@ -36,8 +36,6 @@
 
 <h3>🛠️ Tech Stack & Tools</h3>
 
-<hr style="border: none; height: 0.5px; background-color: #D68C87; opacity: 0.4;">
-
 <table border="0" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td align="left" width="160" style="border: none; padding: 8px 0;"><b>Languages</b></td>
