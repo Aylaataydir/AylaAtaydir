@@ -57,14 +57,19 @@
       <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
     </td>
   </tr>
+  <tr style="border: none;">
+    <td align="left" width="160" style="border: none; padding: 8px 0;"><b>Tools & DevOps</b></td>
+    <td style="border: none; padding: 8px 0;">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    </td>
+  </tr>
 </table>
 
 ---
 
 <!-- 3. BÖLÜM: PROJELER BAŞLIĞI -->
-### 💻 Featured Projects
-
-## My projects
+### 💻 My projects
 
 <table width="100%">
   <thead>
