@@ -50,42 +50,59 @@
 
 <h3>🛠️ Tech Stack & Tools</h3>
 
-<table border="0" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="left" width="160" style="border: none; padding: 8px 0;"><b>Languages</b></td>
-    <td style="border: none; padding: 8px 0;">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td align="left" width="160" style="border: none; padding: 8px 0;"><b>Frontend</b></td>
-    <td style="border: none; padding: 8px 0;">
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td align="left" width="160" style="border: none; padding: 8px 0;"><b>Backend & DB</b></td>
-    <td style="border: none; padding: 8px 0;">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td align="left" width="160" style="border: none; padding: 8px 0;"><b>Tools & DevOps</b></td>
-    <td style="border: none; padding: 8px 0;">
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <sub><b>LANGUAGES</b></sub>
+      <hr>
+      <img height="20" src="https://img.shields.io/badge/HTML5-FF6B6B?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
+      <img height="20" src="https://img.shields.io/badge/CSS3-06B6D4?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
+      <img height="20" src="https://img.shields.io/badge/JavaScript-F59E0B?style=for-the-badge&logo=javascript&logoColor=1A1A2E" />
+      <img height="20" src="https://img.shields.io/badge/TypeScript-6366F1?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />
     </td>
   </tr>
 </table>
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <sub><b>FRONTEND</b></sub>
+      <hr>
+      <img height="20" src="https://img.shields.io/badge/React-8B5CF6?style=for-the-badge&logo=react&logoColor=FFFFFF" />
+      <img height="20" src="https://img.shields.io/badge/Sass-EC4899?style=for-the-badge&logo=sass&logoColor=FFFFFF" />
+      <img height="20" src="https://img.shields.io/badge/Tailwind_CSS-14B8A6?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" />
+      <img height="20" src="https://img.shields.io/badge/Bootstrap-7C3AED?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF" />
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <sub><b>BACKEND & DB</b></sub>
+      <hr>
+      <img height="20" src="https://img.shields.io/badge/Node.js-22C55E?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" />
+      <img height="20" src="https://img.shields.io/badge/Express-1E293B?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+      <img height="20" src="https://img.shields.io/badge/MongoDB-10B981?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" />
+      <img height="20" src="https://img.shields.io/badge/Mongoose-F43F5E?style=for-the-badge&logo=mongoose&logoColor=FFFFFF" />
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <sub><b>TOOLS & DEVOPS</b></sub>
+      <hr>
+      <img height="20" src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=FFFFFF" />
+      <img height="20" src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <br>
 
