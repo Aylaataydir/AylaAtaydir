@@ -93,37 +93,51 @@
 
 <div align="center">
 
-<sub>LANGUAGES</sub>
-<br>
-<img src="https://img.shields.io/badge/HTML5-FF6B6B?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/CSS3-06B6D4?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/JavaScript-F59E0B?style=for-the-badge&logo=javascript&logoColor=1A1A2E" />
-<img src="https://img.shields.io/badge/TypeScript-6366F1?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />
+<table>
+  <tr>
+    <td align="center">
+      <sub><b>LANGUAGES</b></sub><br><br>
+      <img src="https://img.shields.io/badge/HTML5-FF6B6B?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
+      <img src="https://img.shields.io/badge/CSS3-06B6D4?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
+      <img src="https://img.shields.io/badge/JavaScript-F59E0B?style=for-the-badge&logo=javascript&logoColor=1A1A2E" />
+      <img src="https://img.shields.io/badge/TypeScript-6366F1?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />
+    </td>
+  </tr>
+</table>
 
-<br>
+<table>
+  <tr>
+    <td align="center">
+      <sub><b>FRONTEND</b></sub><br><br>
+      <img src="https://img.shields.io/badge/React-8B5CF6?style=for-the-badge&logo=react&logoColor=FFFFFF" />
+      <img src="https://img.shields.io/badge/Sass-EC4899?style=for-the-badge&logo=sass&logoColor=FFFFFF" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-14B8A6?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" />
+      <img src="https://img.shields.io/badge/Bootstrap-7C3AED?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF" />
+    </td>
+  </tr>
+</table>
 
-<sub>FRONTEND</sub>
-<br>
-<img src="https://img.shields.io/badge/React-8B5CF6?style=for-the-badge&logo=react&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Sass-EC4899?style=for-the-badge&logo=sass&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-14B8A6?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Bootstrap-7C3AED?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF" />
+<table>
+  <tr>
+    <td align="center">
+      <sub><b>BACKEND & DB</b></sub><br><br>
+      <img src="https://img.shields.io/badge/Node.js-22C55E?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" />
+      <img src="https://img.shields.io/badge/Express-1E293B?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+      <img src="https://img.shields.io/badge/MongoDB-10B981?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" />
+      <img src="https://img.shields.io/badge/Mongoose-F43F5E?style=for-the-badge&logo=mongoose&logoColor=FFFFFF" />
+    </td>
+  </tr>
+</table>
 
-<br>
-
-<sub>BACKEND & DB</sub>
-<br>
-<img src="https://img.shields.io/badge/Node.js-22C55E?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Express-1E293B?style=for-the-badge&logo=express&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/MongoDB-10B981?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Mongoose-F43F5E?style=for-the-badge&logo=mongoose&logoColor=FFFFFF" />
-
-<br>
-
-<sub>TOOLS & DEVOPS</sub>
-<br>
-<img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<table>
+  <tr>
+    <td align="center">
+      <sub><b>TOOLS & DEVOPS</b></sub><br><br>
+      <img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=FFFFFF" />
+      <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
