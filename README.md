@@ -1,20 +1,5 @@
 
 
-
-<!-- <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=34&duration=3500&pause=1000&color=E6A100&center=true&vCenter=true&width=650&lines=Hi%2C+I+am+Ayla!;Welcome+to+my+profile!" alt="Typing SVG" />
-</div>
-
----
-
-## 🛠️ Skills  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwind,react&theme=dark&perline=8" />
-</p>
-
-  -->
-
 <!-- 1. BÖLÜM: DAKTİLO YAZISI VE AÇIKLAMA -->
 <!-- <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=34&duration=3500&pause=1000&color=E6A100&center=true&vCenter=true&width=650&lines=Hi%2C+I+am+Ayla!;Welcome+to+my+profile!" alt="Typing SVG" />
@@ -31,6 +16,7 @@
 <!-- <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=38&duration=3500&pause=1000&color=D68C87&center=true&vCenter=true&width=700&lines=Hi%2C+I+am+Ayla!;Welcome+to+my+profile!" alt="Typing SVG" />
 </div> -->
+<br>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Baloo+2&size=48&duration=3500&pause=1000&color=E0A526&center=true&vCenter=true&width=700&lines=Hi%2C+I+am+Ayla!;Welcome+to+my+profile!" alt="Typing SVG" />
