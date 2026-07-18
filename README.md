@@ -1,11 +1,11 @@
 
 
 
----
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=F77F00&center=true&vCenter=true&width=500&lines=Hi%2C+I+am+Ayla!;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3500&pause=1000&color=F77F00&center=true&vCenter=true&width=650&lines=Hi%2C+I+am+Ayla!;Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
+
+---
 
 ## 🛠️ Skills  
 
