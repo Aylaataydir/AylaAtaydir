@@ -27,9 +27,8 @@
     <tr>
       <td><a href="https://movie-app-psi-rouge-55.vercel.app/"><b>Moovio</b></a></td>
       <td>Next.js, Context API, Tailwind, Firebase, Swiper, React-toastify</td>
-      <td><img alt="Project Preview" src="<img width="1851" height="847" alt="moovio-screenshot" src="https://github.com/user-attachments/assets/85ce018b-22bd-4655-8bf9-ef17a1449a6f" />
-" /></td>
-      <td><a href="https://github.com/Aylaataydir/movie-app">Repo</a></td>
+      <td><a href="https://github.com/user-attachments/assets/71c8ffb1-83e1-4521-80c2-1b25ce780f37"><img alt="moovio-screenshot" src="https://github.com/user-attachments/assets/027a6554-bfe4-4ba9-ba4d-21ef3dd62bff" /></a></td>
+      <td><a href="https://github.com/user-attachments/assets/71c8ffb1-83e1-4521-80c2-1b25ce780f37">Repo</a></td>
     </tr>
      <!--  Proje -->
     <tr>
