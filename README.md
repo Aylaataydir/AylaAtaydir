@@ -27,14 +27,19 @@
     <tr>
       <td><a href="https://movie-app-psi-rouge-55.vercel.app/"><b>Moovio</b></a></td>
       <td>Next.js, Context API, Tailwind, Firebase, Swiper, React-toastify</td>
-      <td><video src="https://github.com/user-attachments/assets/f4353f12-e361-43cc-8f9b-fff3cd52c05d" width="100%" controls muted autoplay loop></video></td>
+      <td><img alt="Project Preview" src="<img width="1851" height="847" alt="moovio-screenshot" src="https://github.com/user-attachments/assets/85ce018b-22bd-4655-8bf9-ef17a1449a6f" />
+" /></td>
       <td><a href="https://github.com/Aylaataydir/movie-app">Repo</a></td>
     </tr>
      <!--  Proje -->
     <tr>
       <td><a href="https://patient-registration-system-v1.netlify.app/"><b>Patient Registration System</b></a></td>
       <td>CSS, React, React-icons</td>
-      <td><img alt="Screenshot 2026-05-06 181247" src="https://github.com/user-attachments/assets/c8319511-4dc3-43b1-8b44-4f593385af3b" /></td>
+      <td>
+        <a href="https://github.com/user-attachments/assets/71c8ffb1-83e1-4521-80c2-1b25ce780f37" target="_blank">
+        <img alt="Screenshot 2026-05-06 181247" src="https://github.com/user-attachments/assets/c8319511-4dc3-43b1-8b44-4f593385af3b" />
+        </a>
+      </td>
       <td><a href="https://github.com/Aylaataydir/Patient-Registration-App">Repo</a></td>
     </tr>
      <!--  Proje -->
