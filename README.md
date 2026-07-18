@@ -21,7 +21,7 @@
 </div>
 
 <p align="center">
-  ✨ <i>Full-Stack Developer passionate about building clean, aesthetic, and user-centric web applications.</i> ✨
+  ✨ <i>Full-Stack Developer focused on crafting functional and well-designed web applications.</i> ✨
 </p>
 
 ---
