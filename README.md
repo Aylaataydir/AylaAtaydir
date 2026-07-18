@@ -35,7 +35,7 @@
       <td><a href="https://patient-registration-system-v1.netlify.app/"><b>Patient Registration System</b></a></td>
       <td>CSS, React, React Icons</td>
       <td>
-        <a href="https://github.com/user-attachments/assets/71c8ffb1-83e1-4521-80c2-1b25ce780f37" target="_blank">
+        <a href="https://patient-registration-system-v1.netlify.app/" target="_blank">
         <img alt="Screenshot 2026-05-06 181247" src="https://github.com/user-attachments/assets/c8319511-4dc3-43b1-8b44-4f593385af3b" />
         </a>
       </td>
