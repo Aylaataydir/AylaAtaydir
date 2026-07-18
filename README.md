@@ -36,7 +36,7 @@
 
 <h3>🛠️ Tech Stack & Tools</h3>
 
-<div style="width: 60%; height: 2px; background-color: rgba(255, 255, 255, 0.1); margin-top: -5px; margin-bottom: 25px;"></div>
+<img src="./assets/divider.svg" width="60%" />
 
 <table border="0" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
