@@ -48,7 +48,7 @@
 
 <div align="center">
 
-<h2 width="60%">🛠️ Tech Stack & Tools</h2>
+<h3>🛠️ Tech Stack & Tools</h3>
 
 <div align="center">
 
@@ -96,7 +96,7 @@
 
 
 ### 
-<h2 width="60%">💻 My projects</h2>
+<h3>💻 My projects</h3>
 
 <br>
 
