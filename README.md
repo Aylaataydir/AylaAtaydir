@@ -16,16 +16,20 @@
   -->
 
 <!-- 1. BÖLÜM: DAKTİLO YAZISI VE AÇIKLAMA -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=34&duration=3500&pause=1000&color=E6A100&center=true&vCenter=true&width=650&lines=Hi%2C+I+am+Ayla!;Welcome+to+my+profile!" alt="Typing SVG" />
+</div> -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=40&duration=3500&pause=1000&color=E6A100&center=true&vCenter=true&width=700&lines=Hi%2C+I+am+Ayla!;Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
 <p align="center">
   ✨ <i>Full-Stack Developer focused on crafting functional and well-designed web applications.</i> ✨
 </p>
-
+<br>
 ---
-
+<br>
 <!-- 2. BÖLÜM: YENİ SEVİMLİ VE DÜZENLİ TECH STACK -->
 ### 🛠️ Tech Stack & Tools
 
@@ -65,9 +69,9 @@
     </td>
   </tr>
 </table>
-
+<br>
 ---
-
+<br>
 <!-- 3. BÖLÜM: PROJELER BAŞLIĞI -->
 ### 💻 My projects
 
