@@ -1,7 +1,7 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=34&duration=3500&pause=1000&color=E6A100&center=true&vCenter=true&width=650&lines=Hi%2C+I+am+Ayla!;Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
@@ -13,7 +13,49 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwind,react&theme=dark&perline=8" />
 </p>
 
- 
+  -->
+
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=34&duration=3500&pause=1000&color=E6A100&center=true&vCenter=true&width=650&lines=Hi%2C+I+am+Ayla!;Welcome+to+my+profile!" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  ✨ <i>Frontend Developer passionate about building clean, aesthetic, and user-centric web applications.</i> ✨
+</p>
+
+---
+
+<!-- 2. BÖLÜM: SOFT VE ŞIK SKILLS ALANI -->
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="30" /> Tech Stack & Tools
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
+  </a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
+  </a>
+</p>
+
+---
 
 ## My projects
 
