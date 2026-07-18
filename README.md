@@ -25,8 +25,15 @@
   <tbody>
      <!--  Proje -->
     <tr>
+      <td><a href="https://movie-app-psi-rouge-55.vercel.app/"><b>Moovio</b></a></td>
+      <td>Next.js, Context API, Tailwind, Firebase, Swiper, React-toastify</td>
+      <td><img src="https://github.com/user-attachments/assets/353b0b78-0cc6-4d01-bbda-c2e35934b3c1" /></td>
+      <td><a href="https://github.com/Aylaataydir/movie-app">Repo</a></td>
+    </tr>
+     <!--  Proje -->
+    <tr>
       <td><a href="https://patient-registration-system-v1.netlify.app/"><b>Patient Registration System</b></a></td>
-      <td>CSS, React</td>
+      <td>CSS, React, React-icons</td>
       <td><img alt="Screenshot 2026-05-06 181247" src="https://github.com/user-attachments/assets/c8319511-4dc3-43b1-8b44-4f593385af3b" /></td>
       <td><a href="https://github.com/Aylaataydir/Patient-Registration-App">Repo</a></td>
     </tr>
