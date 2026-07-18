@@ -114,8 +114,7 @@
     <tr>
       <td><a href="daily-blog-web.vercel.app"><b>Moovio</b></a></td>
       <td>Next.js, Context API, Tailwind, Firebase, Swiper, React-toastify</td>
-      <td><a href="https://github.com/user-attachments/assets/d925d8eb-4f37-4eda-b67d-f19abcd365c6" width="100%" target="_blank"><img alt="moovio-screenshot" src="<img width="1865" height="845" alt="blog-app-preview" src="https://github.com/user-attachments/assets/f8a72efa-1c6c-450e-81d6-c3042cc9df63" />
-" /></a></td>
+      <td><a href="https://github.com/user-attachments/assets/d925d8eb-4f37-4eda-b67d-f19abcd365c6" width="100%" target="_blank"><img width="1865" height="845" alt="blog-app-preview" src="https://github.com/user-attachments/assets/f8a72efa-1c6c-450e-81d6-c3042cc9df63" /></a></td>
       <td><a href="https://github.com/Aylaataydir/Blog-App">Repo</a></td>
     </tr>
      <!--  Proje -->
